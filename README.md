@@ -9,7 +9,7 @@ Welcome to my portfolio! I am a versatile creative professional with a strong ba
 - **Skills**: Graphics Design, Logo Designing, Branding Designs
 
 ### **Video Production & Animation**
-- **Tools**: ![After Effects](https://img.icons8.com/color/48/000000/adobe-after-effects.png   ![Premiere Pro](https://img.icons8.com/color/48/000000/adobe-premiere-pro.png) ![Cinema 4D]() ![Blender]()
+- **Tools**: ![After Effects](https://img.icons8.com/color/48/000000/adobe-after-effects.png)  ![Premiere Pro](https://img.icons8.com/color/48/000000/adobe-premiere-pro.png) ![Cinema 4D]() ![Blender]()
 - **Skills**: Video Editing, 2D/3D Animation, Post Production Editing, Logo Animation, Visual Effects
 
 ### **Web & Mobile Development**
@@ -19,8 +19,7 @@ Welcome to my portfolio! I am a versatile creative professional with a strong ba
 
 ### **Game Development**
 - **Tools**: ![Unity 3D](https://img.icons8.com/color/48/000000/unity.png)
-- **Language**: ![C#](https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png) {:width="50px" height="50px"}
-- **Skills**: Game Development
+- **Language**: ![C#](https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png) 
 
 ## Tools & Technologies
 
