@@ -9,7 +9,7 @@ Welcome to my portfolio! I am a versatile creative professional with a strong ba
 - **Skills**: Graphics Design, Logo Designing, Branding Designs
 
 ### **Video Production & Animation**
-- **Tools**: ![After Effects](https://img.icons8.com/color/48/000000/adobe-after-effects.png) ![Premiere Pro](https://img.icons8.com/color/48/000000/adobe-premiere-pro.png) ![Cinema 4D](https://img.icons8.com/color/48/000000/maxon-cinema-4d.png) ![Blender](https://img.icons8.com/color/48/000000/blender.png)
+- **Tools**: ![After Effects](https://img.icons8.com/color/48/000000/adobe-after-effects.png) ![Premiere Pro](https://img.icons8.com/color/48/000000/adobe-premiere-pro.png) ![Cinema 4D](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-zeqnq&psig=AOvVaw2S5hlb5gY9p-Xf7btgrebr&ust=1721510266684000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCchNqDtIcDFQAAAAAdAAAAABAE) ![Blender](https://i.pcmag.com/imagery/reviews/00CHLsbAPPKloTAg2PZlVBC-1.fit_lim.size_1050x591.v1662670755.jpg)
 - **Skills**: Video Editing, 2D/3D Animation, Post Production Editing, Logo Animation, Visual Effects
 
 ### **Web & Mobile Development**
@@ -19,7 +19,7 @@ Welcome to my portfolio! I am a versatile creative professional with a strong ba
 
 ### **Game Development**
 - **Tools**: ![Unity 3D](https://img.icons8.com/color/48/000000/unity.png)
-- **Language**: ![C#](https://img.icons8.com/color/48/000000/c-sharp.png)
+- **Language**: ![C#](https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png)
 - **Skills**: Game Development
 
 ## Tools & Technologies
@@ -33,9 +33,9 @@ Welcome to my portfolio! I am a versatile creative professional with a strong ba
   - For creating sophisticated animations and visual effects.
 - **Adobe Premiere Pro**: ![Premiere Pro](https://img.icons8.com/color/48/000000/adobe-premiere-pro.png)
   - For professional video editing.
-- **Cinema 4D**: ![Cinema 4D](https://img.icons8.com/color/48/000000/maxon-cinema-4d.png)
+- **Cinema 4D**: ![Cinema 4D](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-zeqnq&psig=AOvVaw2S5hlb5gY9p-Xf7btgrebr&ust=1721510266684000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCchNqDtIcDFQAAAAAdAAAAABAE)
   - For 3D animation and motion graphics.
-- **Blender**: ![Blender](https://img.icons8.com/color/48/000000/blender.png)
+- **Blender**: ![Blender](https://i.pcmag.com/imagery/reviews/00CHLsbAPPKloTAg2PZlVBC-1.fit_lim.size_1050x591.v1662670755.jpg)
   - For 3D modeling, animation, and rendering.
 
 ### **Development**
