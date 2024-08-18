@@ -49,6 +49,6 @@ Welcome to my portfolio! I am a versatile creative professional with a strong ba
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
 
-- **Email**: [your.email@example.com](dhopegraphics@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/dhope-graphics-690826203/)
-- **Portfolio**: [Your Portfolio Website](https://www.behance.net/dhopegraphics)
+- **Email**: [Email Me Here](dhopegraphics@gmail.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/dhope-graphics-690826203/)
+- **Portfolio**: [Portfolio](https://www.behance.net/dhopegraphics)
